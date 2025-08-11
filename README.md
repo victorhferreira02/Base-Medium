@@ -16,7 +16,7 @@ O desafio proposto pelo professor foi recriar a estrutura visual do site **Mediu
 - Estrutura e estilização puramente manuais.
 
 ## 📸 Demonstração
-![Prévia do Projeto](./screenshot.png) <!-- substitua pelo caminho real da imagem -->
+![Prévia do Projeto](./Screenshot_4.png) <!-- substitua pelo caminho real da imagem -->
 
 > Caso queira visualizar, basta abrir o arquivo `index.html` em qualquer navegador.
 
